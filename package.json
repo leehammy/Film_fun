@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://andy-j-marshall.github.io/world-guesser/",
+  "homepage": "https://leehammy.github.io/Film_fun/public",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
