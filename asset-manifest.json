@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/world-guesser/static/js/main.23b4823e.chunk.js",
-    "main.js.map": "/world-guesser/static/js/main.23b4823e.chunk.js.map",
-    "runtime-main.js": "/world-guesser/static/js/runtime-main.8a2240f2.js",
-    "runtime-main.js.map": "/world-guesser/static/js/runtime-main.8a2240f2.js.map",
-    "static/css/2.f6bd4d84.chunk.css": "/world-guesser/static/css/2.f6bd4d84.chunk.css",
-    "static/js/2.e93ee074.chunk.js": "/world-guesser/static/js/2.e93ee074.chunk.js",
-    "static/js/2.e93ee074.chunk.js.map": "/world-guesser/static/js/2.e93ee074.chunk.js.map",
-    "index.html": "/world-guesser/index.html",
-    "static/css/2.f6bd4d84.chunk.css.map": "/world-guesser/static/css/2.f6bd4d84.chunk.css.map",
-    "static/js/2.e93ee074.chunk.js.LICENSE.txt": "/world-guesser/static/js/2.e93ee074.chunk.js.LICENSE.txt"
+    "main.js": "/Film_fun/static/js/main.23b4823e.chunk.js",
+    "main.js.map": "/Film_fun/static/js/main.23b4823e.chunk.js.map",
+    "runtime-main.js": "/Film_fun/static/js/runtime-main.8a2240f2.js",
+    "runtime-main.js.map": "/Film_fun/static/js/runtime-main.8a2240f2.js.map",
+    "static/css/2.f6bd4d84.chunk.css": "/Film_fun/static/css/2.f6bd4d84.chunk.css",
+    "static/js/2.e93ee074.chunk.js": "/Film_fun/static/js/2.e93ee074.chunk.js",
+    "static/js/2.e93ee074.chunk.js.map": "/Film_fun/static/js/2.e93ee074.chunk.js.map",
+    "index.html": "/Film_fun/index.html",
+    "static/css/2.f6bd4d84.chunk.css.map": "/Film_fun/static/css/2.f6bd4d84.chunk.css.map",
+    "static/js/2.e93ee074.chunk.js.LICENSE.txt": "/Film_fun/static/js/2.e93ee074.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a2240f2.js",
