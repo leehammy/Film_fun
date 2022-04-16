@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://leehammy.github.io/Film_fun/public",
+  "homepage": "https://leehammy.github.io/Film_fun/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

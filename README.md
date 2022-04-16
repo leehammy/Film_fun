@@ -2,7 +2,6 @@ TODO Complete the readme
 # README
 
 ## Site is hosted here
-https://andy-j-marshall.github.io/world-guesser/
 
 ## pre-requisites
 node
